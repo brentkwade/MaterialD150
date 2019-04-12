@@ -1,0 +1,19 @@
+{
+  "name": "material-d150",
+  "description": "D150 Website",
+  "version": "2.0.3",
+  "homepage": "http://www.d150fueling.com",
+  "author": "Brent Wade",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-open": "^2.1.0"
+  }
+}
